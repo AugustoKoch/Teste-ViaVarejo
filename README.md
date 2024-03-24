@@ -1,2 +1,2 @@
-# Teste-VilaVarejo
-Teste para vagas back-end Vila Varejo
+# Teste-ViaVarejo
+Teste para vagas back-end Via Varejo
